@@ -116,10 +116,6 @@ The visualizations and preprocessing steps reveal insights into the dataset:
 
 If you want to contribute to this project, please fork the repository and submit a pull request with your changes. Make sure to update the README file accordingly.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to adjust or add any details specific to your project or dataset.
